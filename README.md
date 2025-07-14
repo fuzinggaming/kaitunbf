@@ -19,7 +19,7 @@ getgenv().Key = "c5edac008cb844eefa9e0fba"
         ["White Screen"] = false,
         ["Lock Fps"] = {
             ["Enabled"] = false,
-            ["FPS"] = 20,
+            ["FPS"] = 60,
         },
         ["Get Items"] = {
             ["Saber"] = true,
@@ -49,7 +49,7 @@ getgenv().Key = "c5edac008cb844eefa9e0fba"
         ["Select Hop"] = { -- 70% will have it
             ["Hop Server If Have Player Near"] = false, 
             ["Hop Find Rip Indra Get Valkyrie Helm or Get Tushita"] = true, 
-            ["Hop Find Dough King Get Mirror Fractal"] = false,
+            ["Hop Find Dough King Get Mirror Fractal"] = flase,
             ["Hop Find Raids Castle [CDK]"] = true,
             ["Hop Find Cake Queen [CDK]"] = true,
             ["Hop Find Soul Reaper [CDK]"] = true,
@@ -58,7 +58,7 @@ getgenv().Key = "c5edac008cb844eefa9e0fba"
         },
         ["Farm Mastery"] = {
             ["Melee"] = true,
-            ["Sword"] = true,
+            ["Sword"] = flase,
         },
         ["Buy Haki"] = {
             ["Enhancement"] = false,
